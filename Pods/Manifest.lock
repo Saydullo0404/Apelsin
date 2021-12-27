@@ -1,0 +1,30 @@
+PODS:
+  - FlagKit (2.2)
+  - FlagPhoneNumber (0.8.0):
+    - FlagPhoneNumber/libPhoneNumberiOS (= 0.8.0)
+  - FlagPhoneNumber/libPhoneNumberiOS (0.8.0)
+  - IQKeyboardManagerSwift (6.5.6)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - FlagKit
+  - FlagPhoneNumber
+  - IQKeyboardManagerSwift
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - FlagKit
+    - FlagPhoneNumber
+    - IQKeyboardManagerSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  FlagKit: eca7dc89064b0c986302ba9acefad1bf80a435b1
+  FlagPhoneNumber: 3712455b95f66cb0f2016fef7d9e34cddf8c7f9a
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 1bcdc714fec1660f46e305bca890ba41acc6bd82
+
+COCOAPODS: 1.11.2
