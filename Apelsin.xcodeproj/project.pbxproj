@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		63374326275F55BD00D49526 /* RegisterSmsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63374325275F55BD00D49526 /* RegisterSmsVC.swift */; };
+		6337432827607D0600D49526 /* NewPasswordVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6337432727607D0600D49526 /* NewPasswordVC.swift */; };
+		6337432A2761F8F700D49526 /* PinkodVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633743292761F8F700D49526 /* PinkodVC.swift */; };
+		6337432D2762100700D49526 /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6337432C2762100700D49526 /* String.swift */; };
+		6337432F2762114100D49526 /* ApelsinMenuVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6337432E2762114100D49526 /* ApelsinMenuVC.swift */; };
+		63374332276316B700D49526 /* HomeTabbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63374331276316B700D49526 /* HomeTabbar.swift */; };
+		6337433427631CA000D49526 /* TransferVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6337433327631CA000D49526 /* TransferVC.swift */; };
+		6337433627631CC900D49526 /* PaymentVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6337433527631CC900D49526 /* PaymentVC.swift */; };
+		6337433827631CE700D49526 /* ChatVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6337433727631CE700D49526 /* ChatVC.swift */; };
+		6337433A27631D0900D49526 /* MenuVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6337433927631D0900D49526 /* MenuVC.swift */; };
 		634647A5275E2A7800AA79DC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 634647A4275E2A7800AA79DC /* AppDelegate.swift */; };
 		634647A7275E2A7800AA79DC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 634647A6275E2A7800AA79DC /* SceneDelegate.swift */; };
 		634647A9275E2A7800AA79DC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 634647A8275E2A7800AA79DC /* ViewController.swift */; };
@@ -14,9 +24,23 @@
 		634647AF275E2A7800AA79DC /* Apelsin.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 634647AD275E2A7800AA79DC /* Apelsin.xcdatamodeld */; };
 		634647B1275E2A7A00AA79DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 634647B0275E2A7A00AA79DC /* Assets.xcassets */; };
 		634647B4275E2A7A00AA79DC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 634647B2275E2A7A00AA79DC /* LaunchScreen.storyboard */; };
+		ADED6944BE6388B237732A57 /* Pods_Apelsin.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 059CF6D28038FB7C43DE3668 /* Pods_Apelsin.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		00370B861571E22F89DFE1B4 /* Pods-Apelsin.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Apelsin.release.xcconfig"; path = "Target Support Files/Pods-Apelsin/Pods-Apelsin.release.xcconfig"; sourceTree = "<group>"; };
+		059CF6D28038FB7C43DE3668 /* Pods_Apelsin.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Apelsin.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		608DF110402F4106370BC7A9 /* Pods-Apelsin.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Apelsin.debug.xcconfig"; path = "Target Support Files/Pods-Apelsin/Pods-Apelsin.debug.xcconfig"; sourceTree = "<group>"; };
+		63374325275F55BD00D49526 /* RegisterSmsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterSmsVC.swift; sourceTree = "<group>"; };
+		6337432727607D0600D49526 /* NewPasswordVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPasswordVC.swift; sourceTree = "<group>"; };
+		633743292761F8F700D49526 /* PinkodVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinkodVC.swift; sourceTree = "<group>"; };
+		6337432C2762100700D49526 /* String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
+		6337432E2762114100D49526 /* ApelsinMenuVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApelsinMenuVC.swift; sourceTree = "<group>"; };
+		63374331276316B700D49526 /* HomeTabbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTabbar.swift; sourceTree = "<group>"; };
+		6337433327631CA000D49526 /* TransferVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransferVC.swift; sourceTree = "<group>"; };
+		6337433527631CC900D49526 /* PaymentVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentVC.swift; sourceTree = "<group>"; };
+		6337433727631CE700D49526 /* ChatVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatVC.swift; sourceTree = "<group>"; };
+		6337433927631D0900D49526 /* MenuVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuVC.swift; sourceTree = "<group>"; };
 		634647A1275E2A7800AA79DC /* Apelsin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Apelsin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		634647A4275E2A7800AA79DC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		634647A6275E2A7800AA79DC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -33,17 +57,40 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADED6944BE6388B237732A57 /* Pods_Apelsin.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6337432B27620FEF00D49526 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				6337432C2762100700D49526 /* String.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		633743302763169A00D49526 /* HomeTabbarVC */ = {
+			isa = PBXGroup;
+			children = (
+				63374331276316B700D49526 /* HomeTabbar.swift */,
+				6337433327631CA000D49526 /* TransferVC.swift */,
+				6337433527631CC900D49526 /* PaymentVC.swift */,
+				6337433727631CE700D49526 /* ChatVC.swift */,
+				6337433927631D0900D49526 /* MenuVC.swift */,
+			);
+			path = HomeTabbarVC;
+			sourceTree = "<group>";
+		};
 		63464798275E2A7800AA79DC = {
 			isa = PBXGroup;
 			children = (
 				634647A3275E2A7800AA79DC /* Apelsin */,
 				634647A2275E2A7800AA79DC /* Products */,
+				6A7DF365B20980958C9EBCB1 /* Pods */,
+				9E30B530EBDCFA24418E0434 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,16 +105,71 @@
 		634647A3275E2A7800AA79DC /* Apelsin */ = {
 			isa = PBXGroup;
 			children = (
-				634647A4275E2A7800AA79DC /* AppDelegate.swift */,
-				634647A6275E2A7800AA79DC /* SceneDelegate.swift */,
-				634647A8275E2A7800AA79DC /* ViewController.swift */,
-				634647AA275E2A7800AA79DC /* Main.storyboard */,
-				634647B0275E2A7A00AA79DC /* Assets.xcassets */,
-				634647B2275E2A7A00AA79DC /* LaunchScreen.storyboard */,
+				633743302763169A00D49526 /* HomeTabbarVC */,
+				6337432B27620FEF00D49526 /* Extension */,
+				634647BB275E2A8400AA79DC /* App */,
+				634647BC275E2A9100AA79DC /* Controller */,
+				634647BD275E2A9D00AA79DC /* Storyboard */,
 				634647B5275E2A7A00AA79DC /* Info.plist */,
 				634647AD275E2A7800AA79DC /* Apelsin.xcdatamodeld */,
 			);
 			path = Apelsin;
+			sourceTree = "<group>";
+		};
+		634647BB275E2A8400AA79DC /* App */ = {
+			isa = PBXGroup;
+			children = (
+				634647A4275E2A7800AA79DC /* AppDelegate.swift */,
+				634647A6275E2A7800AA79DC /* SceneDelegate.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		634647BC275E2A9100AA79DC /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				634647A8275E2A7800AA79DC /* ViewController.swift */,
+				63374325275F55BD00D49526 /* RegisterSmsVC.swift */,
+				6337432727607D0600D49526 /* NewPasswordVC.swift */,
+				633743292761F8F700D49526 /* PinkodVC.swift */,
+				63AE09F72769D89000916A3C /* ApelsinPage */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		634647BD275E2A9D00AA79DC /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				634647B2275E2A7A00AA79DC /* LaunchScreen.storyboard */,
+				634647B0275E2A7A00AA79DC /* Assets.xcassets */,
+				634647AA275E2A7800AA79DC /* Main.storyboard */,
+			);
+			path = Storyboard;
+			sourceTree = "<group>";
+		};
+		63AE09F72769D89000916A3C /* ApelsinPage */ = {
+			isa = PBXGroup;
+			children = (
+				6337432E2762114100D49526 /* ApelsinMenuVC.swift */,
+			);
+			path = ApelsinPage;
+			sourceTree = "<group>";
+		};
+		6A7DF365B20980958C9EBCB1 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				608DF110402F4106370BC7A9 /* Pods-Apelsin.debug.xcconfig */,
+				00370B861571E22F89DFE1B4 /* Pods-Apelsin.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		9E30B530EBDCFA24418E0434 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				059CF6D28038FB7C43DE3668 /* Pods_Apelsin.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -77,9 +179,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 634647B8275E2A7A00AA79DC /* Build configuration list for PBXNativeTarget "Apelsin" */;
 			buildPhases = (
+				C80F233CBEBB2C84C2CC465D /* [CP] Check Pods Manifest.lock */,
 				6346479D275E2A7800AA79DC /* Sources */,
 				6346479E275E2A7800AA79DC /* Frameworks */,
 				6346479F275E2A7800AA79DC /* Resources */,
+				23C3350473D689A3CFD643BE /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -136,14 +240,66 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		23C3350473D689A3CFD643BE /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Apelsin/Pods-Apelsin-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Apelsin/Pods-Apelsin-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Apelsin/Pods-Apelsin-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C80F233CBEBB2C84C2CC465D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Apelsin-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		6346479D275E2A7800AA79DC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6337432A2761F8F700D49526 /* PinkodVC.swift in Sources */,
+				6337433627631CC900D49526 /* PaymentVC.swift in Sources */,
+				6337432827607D0600D49526 /* NewPasswordVC.swift in Sources */,
+				6337433A27631D0900D49526 /* MenuVC.swift in Sources */,
+				63374326275F55BD00D49526 /* RegisterSmsVC.swift in Sources */,
 				634647AF275E2A7800AA79DC /* Apelsin.xcdatamodeld in Sources */,
 				634647A9275E2A7800AA79DC /* ViewController.swift in Sources */,
+				6337433427631CA000D49526 /* TransferVC.swift in Sources */,
+				63374332276316B700D49526 /* HomeTabbar.swift in Sources */,
 				634647A5275E2A7800AA79DC /* AppDelegate.swift in Sources */,
+				6337432F2762114100D49526 /* ApelsinMenuVC.swift in Sources */,
+				6337432D2762100700D49526 /* String.swift in Sources */,
+				6337433827631CE700D49526 /* ChatVC.swift in Sources */,
 				634647A7275E2A7800AA79DC /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -288,6 +444,7 @@
 		};
 		634647B9275E2A7A00AA79DC /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 608DF110402F4106370BC7A9 /* Pods-Apelsin.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -315,6 +472,7 @@
 		};
 		634647BA275E2A7A00AA79DC /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 00370B861571E22F89DFE1B4 /* Pods-Apelsin.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
